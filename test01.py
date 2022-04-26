@@ -1,5 +1,6 @@
 # 파이썬으로 웹을 크롤링 하기 위한 필수 라이브러리 중 하나인 BeautifulSoup을 설치 한다.
 # pip3 install beautifulsoup4
+#test
 
 from bs4 import BeautifulSoup
 import urllib.request as req
